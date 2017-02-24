@@ -1,0 +1,87 @@
+body {
+background: black;
+margin: 0px;
+font-family: Verdana, Georgia, serif;
+font-size: 14px;
+}
+
+
+header {
+background-color: hotpink;
+margin: 10px;
+height: 90px;
+border-radius: 5px;
+}
+
+
+
+nav {
+background-color: hotpink;
+margin: 10px;
+height: 35px;
+border-radius: 5px;
+font-size: 25px;
+}
+
+main {
+background-color: hotpink;
+margin-left: 10px;
+margin-right: 320px;
+margin-bottom: 10px;
+margin-top: 10px;
+border-radius: 5px;
+float: left;
+padding: 20px;
+font-size: 110%;
+min-width: 320px;
+max-width: 70%;
+}
+
+h1 {
+font-size: 120%;
+color: yellow;
+text-align: center;
+
+}
+
+
+aside {
+background-color: hotpink;
+margin: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 105%;
+float: left;
+width: 260px
+}
+
+h2 {
+color: yellow;
+}
+
+
+p{
+font-family: "Verdana", Sans-serif;
+}
+
+.redneck {
+font-size: 50px;
+}
+
+
+
+.supreme {
+background-color: hotpink;
+margin: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 105%;
+float: left;
+width: 260px
+}
+
+
+.goku {
+font-size: 50px;
+}
+
